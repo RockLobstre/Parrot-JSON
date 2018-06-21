@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "reasons": [
+    { "reasonId": "1", "reasonMessage": "You’ve slept. Now get out of the bedroom." },
+    { "reasonId": "2", "reasonMessage": "Go to the kitchen for your coffee." },
+    { "reasonId": "3", "reasonMessage": "Go to the office for your computer." },
+    { "reasonId": "4", "reasonMessage": "Don’t think, just do. Think later." },
+    { "reasonId": "5", "reasonMessage": "It's time to Drink water!" },
+    { "reasonId": "6", "reasonMessage": "Get up now and make all the difference in your life. be more productive. Make more money. Reach more people. Get more deals done." },
+    { "reasonId": "7", "reasonMessage": "Wake up and do something you never have the time for." },
+    { "reasonId": "8", "reasonMessage": "Wake up and be like the biggest and most powerful CEOs in the world." },
+    { "reasonId": "9", "reasonMessage": "Get up early, get to the office, and your commute is done before traffic goes to hell." },
+    { "reasonId": "10", "reasonMessage": "Getting up early and exercising, whether at the gym or by yourself, puts you in a very small, yet very powerful group of people. " },
+    { "reasonId": "11", "reasonMessage": "Get up, get it done, and get on with your day." },
+    { "reasonId": "12", "reasonMessage": "Get up early and eliminate the “rush” that comes with leaving the house. Get up earlier, and you’re calmer. " },
+    { "reasonId": "13", "reasonMessage": "Get up early and have breakfast, which really is the most important meal of the day!" },
+    { "reasonId": "14", "reasonMessage": "Get up early and believe it is worth it. It’s time to wake up." }
+  ]
 }
